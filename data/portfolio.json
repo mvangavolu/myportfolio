@@ -1,1 +1,99 @@
-{"name":"Mahi","headerTaglineOne":"Howdy 👋","headerTaglineTwo":"I am Mahesh Vangavolu","headerTaglineThree":"Designer and Devloper","headerTaglineFour":" Based in Texas","showCursor":true,"showBlog":false,"darkMode":true,"showResume":false,"socials":[{"id":"1","title":"Github","link":"https://github.com/mvangavolu"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/mahesh-vangavolu-151525177/"},{"id":"5","title":"Email","link":"mailto:mvangavolu@gmail.com"}],"projects":[{"id":"2","title":"Aggie Heroes Frontend","description":"Web Design","imageSrc":"https://i.redd.it/vuyf399q4wv81.jpg","url":"https://github.com/mvangavolu/aggie_heroes"},{"id":"c6cd09b9-8f45-4c1d-92c4-b5ea1a775170","title":"Aggie Heroes Backend","description":"Web Development","imageSrc":"https://i.redd.it/5rsow6fjhqw11.jpg","url":"https://github.com/mvangavolu/aggieheroes"}],"services":[{"id":"2","title":"Art Direction & Branding","description":"I design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors. I can also help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"3","title":"Web Design & Development","description":"I build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."}],"aboutpara":"Hi there! I'm Mahesh, a passionate and dedicated web developer with a knack for creating elegant and efficient web solutions. With a strong foundation in both front-end and back-end technologies, I strive to build websites and applications that not only look great but also perform seamlessly.\n\nMy journey into web development began with a fascination for technology and a desire to understand how the web works. Over the years, I've honed my skills through continuous learning and hands-on experience. From developing small personal projects to working on complex applications, each step has been a rewarding challenge that has deepened my expertise.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+    "name": "Mahi",
+    "headerTaglineOne": "Howdy 👋",
+    "headerTaglineTwo": "I am Mahesh Vangavolu",
+    "headerTaglineThree": "Designer and Devloper",
+    "headerTaglineFour": " Based in Texas",
+    "showCursor": true,
+    "showBlog": false,
+    "darkMode": true,
+    "showResume": false,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/mvangavolu"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/mahesh-vangavolu-151525177/"
+        },
+        {
+            "id": "5",
+            "title": "Email",
+            "link": "mailto:mvangavolu@gmail.com"
+        }
+    ],
+    "projects": [
+        {
+            "id": "2",
+            "title": "Aggie Heroes Frontend",
+            "description": "Web Design",
+            "imageSrc": "https://i.redd.it/vuyf399q4wv81.jpg",
+            "url": "https://github.com/mvangavolu/aggie_heroes"
+        },
+        {
+            "id": "c6cd09b9-8f45-4c1d-92c4-b5ea1a775170",
+            "title": "Aggie Heroes Backend",
+            "description": "Web Development",
+            "imageSrc": "https://i.redd.it/5rsow6fjhqw11.jpg",
+            "url": "https://github.com/mvangavolu/aggieheroes"
+        }
+    ],
+    "services": [
+        {
+            "id": "2",
+            "title": "Art Direction & Branding",
+            "description": "I design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors. I can also help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+        },
+        {
+            "id": "3",
+            "title": "Web Design & Development",
+            "description": "I build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+        }
+    ],
+    "aboutpara": "Hi there! I'm Mahesh, a passionate and dedicated web developer with a knack for creating elegant and efficient web solutions. With a strong foundation in both front-end and back-end technologies, I strive to build websites and applications that not only look great but also perform seamlessly.\n\nMy journey into web development began with a fascination for technology and a desire to understand how the web works. Over the years, I've honed my skills through continuous learning and hands-on experience. From developing small personal projects to working on complex applications, each step has been a rewarding challenge that has deepened my expertise.",
+    "resume": {
+        "tagline": "👋  I'm a software engineer, product designer.",
+        "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "March 2022 - Present",
+                "type": "Full Time",
+                "position": "Frontend Engineer at X",
+                "bullets": "Bullet One, Bullet Two"
+            },
+            {
+                "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+                "dates": "July 2020 - March 2022",
+                "type": "Full Time",
+                "position": "Frontend Engineer at X",
+                "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+            }
+        ],
+        "education": {
+            "universityName": "University X",
+            "universityDate": "2016-2020",
+            "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+        },
+        "languages": [
+            "Javascript",
+            "HTML5",
+            "CSS",
+            "Python",
+            "Go"
+        ],
+        "frameworks": [
+            "React",
+            "Typescript",
+            "NodeJs"
+        ],
+        "others": [
+            "Figma",
+            "AdobeXD",
+            "AWS"
+        ]
+    }
+}
