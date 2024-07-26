@@ -24,9 +24,9 @@ const Footer = ({}) => {
         </div>
       </div>
       <h1 className="text-sm text-bold mt-2 laptop:mt-10 p-2 laptop:p-0">
-        Made With ❤ by{" "}
-        <Link href="http://www.chetanverma.com">
-          <a className="underline underline-offset-1">Chetan Verma</a>
+        He {" "}
+        <Link href="https://www.youtube.com/watch?v=Bjt7mDVCLtk">
+          <a className="underline underline-offset-1"> Groove ❤ </a>
         </Link>
       </h1>
     </>
